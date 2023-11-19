@@ -1,3 +1,0 @@
-# psharing
-
-platform sharing
